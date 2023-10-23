@@ -1,18 +1,18 @@
-Tony Rago
-CS-425
-Project 2
-Due: 10-16-2023
+Tony Rago <br>
+CS-425 <br>
+Project 2 <br>
+Due: 10-16-2023 <br>
 
-Lab Report
+Lab Report <br>
 
-1.) File: orig.cpp 
-No changes. I waited around 45 minutes but it never finished.
-Time: N/A
-Speedup: N/A
+1.) File: orig.cpp <br>
+No changes. I waited around 45 minutes but it never finished. <br>
+Time: N/A <br>
+Speedup: N/A <br>
 
 
-2.) File: Test1.cpp 
-Following the lecture slides from 'Class 12 - Load Balancing' I Implented threads
-to speed up this program.
-Time: 1m57.25s or 117.25s
-Speedup: N/A
+2.) File: Test1.cpp <br>
+Following the lecture slides from 'Class 12 - Load Balancing' I Implented threads <br>
+to speed up this program. <br>
+Time: 1m57.25s or 117.25s <br>
+Speedup: N/A <br>

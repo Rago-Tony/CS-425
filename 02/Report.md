@@ -18,7 +18,7 @@ Time: 1m57.25s or 117.25s <br>
 Speedup: N/A <br>
 
 3.) File: Test2.cpp <br>
-Rewrote the for loop on line 42 to be a more effiect while loop that doesn't redo operations
+Rewrote the for loop on line 42 to be a more effiect while loop that doesn't redo operations <br>
 Time: 1m14.87 or 74.87s <br>
 Speedup: N/A  <br>
 
